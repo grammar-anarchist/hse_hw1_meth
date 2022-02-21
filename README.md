@@ -1,9 +1,16 @@
 Ссылка на [коллаб](https://duckduckgo.com)https://colab.research.google.com/drive/1afyu03E0bTZdkTlk4jrDWpF1f4pAHaD0?usp=sharing)
 
-Задание 1.
+## Задание 1.
 
 Сравниваем fastq для SRR5836473_1 и fastq из прошлого дз по структуре хроматина (это ДНК или РНК организма Pleurobrachia Bachei).
 
+
+| SRR5836473_1 | Прошлое дз |
+|------------|-------------------|-------------------|
+| ![image info](./images/1.png) | ![image info](./images/5.png) | 
+| ![image info](./images/2.png) | ![image info](./images/6.png) | 
+| ![image info](./images/3.png) | ![image info](./images/7.png) | 
+| ![image info](./images/4.png) | ![image info](./images/8.png) | 
 
 Скриншоты из SRR5836473_1:
 
@@ -28,7 +35,7 @@
 
 В Per sequence GC content видим резкое искажение для SRR5836473_1. График в целом похож на смесь двух нормальных распределений.
 
-Задание 2.а, b)
+## Задание 2.а, b)
 
 |            | 11347700-11367700 | 40185800-40195800 | Deduplication |
 |------------|-------------------|-------------------|---------------|
