@@ -1,4 +1,4 @@
-Ссылка на [коллаб](https://duckduckgo.com)https://colab.research.google.com/drive/1afyu03E0bTZdkTlk4jrDWpF1f4pAHaD0?usp=sharing)
+Ссылка на [коллаб](https://duckduckgo.comhttps://colab.research.google.com/drive/1afyu03E0bTZdkTlk4jrDWpF1f4pAHaD0?usp=sharing)
 
 ## Задание 1.
 
