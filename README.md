@@ -12,21 +12,6 @@
 | ![image info](./images/3.png) | ![image info](./images/7.png) | 
 | ![image info](./images/4.png) | ![image info](./images/8.png) | 
 
-Скриншоты из SRR5836473_1:
-
-![image info](./images/1.png)
-![image info](./images/2.png)
-![image info](./images/3.png)
-![image info](./images/4.png)
-
-
-Скриншоты из прошлого дз:
-
-![image info](./images/5.png)
-![image info](./images/6.png)
-![image info](./images/7.png)
-![image info](./images/8.png)
-
 Сравнение: 
 
 Видим в Per base sequence content, что в SRR5836473_1 несколько большее содержание тимина, и несколько меньшее – цитозина (и если посмотреть на содержание GC из Basic statistics, то увидим, что оно уменьшилось с 43% до 36%). При этом нет такого эффекта, который мы наблюдали в прошлой домашке, когда в начале распредление сильно отличается от последующего.
