@@ -6,7 +6,7 @@
 
 
 | SRR5836473_1 | Прошлое дз |
-|------------|-------------------|-------------------|
+|-------------------|-------------------|
 | ![image info](./images/1.png) | ![image info](./images/5.png) | 
 | ![image info](./images/2.png) | ![image info](./images/6.png) | 
 | ![image info](./images/3.png) | ![image info](./images/7.png) | 
